@@ -6,6 +6,7 @@ Hi! I'm ikkou (he/his)-a (Software Engineer|Tech PM) with particular expertise i
 
 * https://twitter.com/ikkou
 * https://www.facebook.com/morohoshi.ikkou
+* https://zenn.dev/ikkou
 * https://dev.to/ikkou
 * https://speakerdeck.com/ikkou
 
